@@ -1,0 +1,13 @@
+tipo:Extra:4000:40000.0
+tipo:Corriente:2000:20000.0
+tipo:Diesel:3000:30000.0
+tipo:Plus:1000:10000.0
+surtidor:David. S:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+surtidor:Pinto:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+surtidor:Daniela:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+surtidor:Daniela:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+empleado:David. S:0
+empleado:Pinto:0
+empleado:Samara:0
+empleado:Hernando:0
+empleado:Daniela:0
