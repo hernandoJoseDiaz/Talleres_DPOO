@@ -1,9 +1,0 @@
-Cliente: cliente1
-Dirección: 111
-----------------
-TestBurger
-            10000
-----------------
-Precio Neto:  10000
-IVA:          1900
-Precio Total: 11900
